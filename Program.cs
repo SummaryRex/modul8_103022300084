@@ -2,7 +2,7 @@
 
 class Program
 {
-    private const String url = @"D:\modul8_103022300084\bin\Debug\net8.0\bank_transfer_config.json";
+    private const String url = @"D:\modul8_103022300084\bank_transfer_config.json";
 
     public static void Main(string[] args)
     {
